@@ -43,5 +43,9 @@ yarn serve
 yarn build
 ```
 
+### 生成微信小程序源码
+```
+dev:mp-weixin
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

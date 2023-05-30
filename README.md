@@ -1,6 +1,6 @@
 #创建uniapp项目
 
-vue create -p dcloudio/uni-preset-vue
+vue create -p dcloudio/uni-preset-vue echocloud-vue-uniapp
 
 # echocloud-vue-uniapp
 

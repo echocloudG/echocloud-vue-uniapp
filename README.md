@@ -1,3 +1,7 @@
+#创建uniapp项目
+
+vue create -p dcloudio/uni-preset-vue
+
 # echocloud-vue-uniapp
 
 ## Project setup
